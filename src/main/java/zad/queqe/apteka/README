@@ -1,0 +1,10 @@
+5. Stwórz aplikację a w niej klasę Customer. Każdy Customer ma pola:
+ - wiek (int)
+ - w ciąży (boolean)
+ - nazwa/imie
+
+Stwórz klasę apteka a w niej kolejkę klientów. dodawaj klientów do kolejki i sortuj je następująco:
+- osoby starsze powinny pójść możliwie na przód kolejki jeśli mają powyżej 60 lat, jeśli nie ustawiają się normalnie na koniec
+- osoby w ciąży mają priorytet nad wszystkimi
+(stwórz metody do sprawdzania kolejki - wypisywania wszystkich w kolejce)
+(użyj comparator i comparable)
